@@ -1,0 +1,115 @@
+#showcase{
+	background-image: url(0.jpg);
+	background-position: center right;
+	height: 200px;
+	margin-bottom: 30px
+
+}
+
+#showcase h1{
+	text-align: center;
+	font-family:cursive;
+	color:yellow;
+	font-size: 50px;
+	padding-top: 30px;
+}
+
+	
+
+
+.bar{
+	background-color:#34495e;
+	padding: 20px;
+
+
+
+}
+.bar ul{
+	padding: 0;
+	list-style: none;
+
+}
+
+.bar li{
+	display: inline;
+	line-height: 10px;
+
+	}
+
+.bar a{
+	color: white;
+	text-decoration: none;
+	font-family: cursive;
+	padding: 20px;
+	}
+#header2 h2{
+     font-family: arial;
+}
+
+.m1{
+	width: 1000px;
+	height: 500px;
+	border: 1px solid black;
+	
+	margin-left:130px;
+}
+.m1 p{
+	font-size: 30px;
+	text-align: center;
+	background-image: url(45.jpg);
+	color:white;
+}
+
+.e3 h2{
+	font-family: cursive;
+
+
+}
+.e3 :hover{
+	color: red;
+	background-color: yellow;
+
+
+}
+
+.e0 a{
+   text-decoration: none;
+   color: white;
+
+}
+
+.e0 button{
+     background-color: black;
+     padding:20px;   
+}
+
+.e0 :hover{
+	background-color: red;
+	color: black;
+	
+}
+.h6 button{
+	background-color: green;
+	
+}
+
+.ro footer{
+	background-color: gray;
+	color: white;
+	padding: 30px;
+	margin-top: 40px;
+	text-align: center;
+	text-decoration: none;
+}
+.bar a:hover{
+	background-color: red;
+}
+ 
+
+.e0 :user-select: button {
+	background-color: lime;
+	padding: 10px;
+}
+
+
+
